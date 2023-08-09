@@ -13,7 +13,6 @@ return {
       "css",
       "yaml",
       "json",
-      "jsons",
       "dockerfile",
       "cpp",
       "c",
